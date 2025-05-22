@@ -1,0 +1,241 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(239, 194, 150);
+    
+}
+h4{
+    color: red;
+    margin-left: 34px;
+    margin-top: 23px;
+}
+
+.menu{
+    background-color: #004466;
+    margin-top: -100px;
+    height: 93px;
+    
+    
+}
+.dom{
+    margin-left: 30px;
+}
+j{
+    color: #f08009f8;
+}
+ul {
+    display: flex;
+   
+    
+}
+ul li{
+    list-style: none;
+    margin-left: 160px;
+    margin-top: -20px;
+    height: 30px;
+    border-radius: 12px;
+    
+    
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    
+   
+}
+ul li a:hover{
+    color: rgb(1, 247, 1);
+}
+h1{
+    color: rgb(255, 0, 0);
+    margin-top: 100px;
+}
+ul li ul{
+    display: none;
+}
+ul li:hover ul{
+    display: block;
+}
+.A{
+    margin-left: 45px;
+    margin-top: -7px;
+}
+h2{
+    font-family: 'Times New Roman';
+    text-align: center;
+    color: rgb(236, 4, 43);
+    margin-top: 34px;
+}
+h3{
+    color: #ec12bc;
+    text-align: center;
+    margin-top: 34px;
+}
+p{
+    margin-top: 34px;
+    margin-left: 23px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.kus{
+    margin-top: 34px;
+}
+.new{
+    margin-top: 23px;
+}
+.mess{
+    margin-top: 23px; 
+}
+.info{
+     margin-top: 23px;
+}
+.mimi{
+    height: 500px;
+    width: 500px;
+    border-radius: 50px;
+}
+.jay{
+    text-align: center;
+    margin-top: 23px;
+}
+center{
+    color:white;
+}
+.gene{
+    background-color: blue;
+    width: 200px;
+    margin-left: 500px;
+    border: #ec12bc dotted 1px;
+    border-radius: 45px;
+}
+.to{
+    background-color: blue;
+}
+.muy{
+    margin-left: 150px;
+    margin-top:50px;
+    width: 270px;
+    margin-left: 100px;
+   
+}
+.mu{
+    margin-left: 800px;
+     margin-top:-270px;
+       width: 270px;
+}
+.fro{
+       margin-left: 800px;
+     margin-top:10px;
+       width: 210px;
+         background-color: blue;
+       border: #ec12bc dotted 1px;
+    border-radius: 45px;
+}
+.from{
+     background-color: blue;
+       border: #ec12bc dotted 1px;
+    border-radius: 45px;
+    width: 220px;
+    margin-left: 90px;
+}
+
+
+h7{
+   color: white;
+   margin-left: 20px;
+
+}
+.j{
+    margin-top: 23px;
+}
+.lolo{
+    background-color: white;
+    width: 1200px;
+    height: auto;
+    margin-left: 20px;
+    padding: 0px;
+    border: #ec12bc dotted 1px;
+    border-radius: 20px;
+
+}
+.park{
+    margin-left: 43px;
+}
+.ngoro{
+    margin-left: 23px;
+    margin-top: 23px;
+    
+}
+table{
+    border: 2px;
+}
+.member{
+    margin-left:500px;
+    margin-top: 30PX;
+    background: rgba(41, 41, 192, 0.911);
+    width:390PX;
+
+}
+td{
+    color: white;
+}
+th{
+    color:white;
+}
+.john{
+    margin-top: 30px;
+}
+.how{
+    margin-left: 100px;
+    margin-top: 34px;
+}
+li{
+    color:rgb(65, 49, 51);
+}
+marquee{
+    color: rgb(28, 20, 14);
+    margin-top: 23px;
+}
+#A{
+    margin: auto;
+    padding: 0px;
+    width: 1000px;
+}
+.tour{
+    border-radius: 30px;
+     background-color: rgb(239, 194, 150);
+    width: 400px;
+    padding: 8px;
+    margin-top: 60px;
+}
+#k{
+    background-color: rgb(239, 194, 150);
+    border-radius: 20px;
+    border: dotted black 1px;
+    padding: 7px;
+}
+#o{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 16px;
+}
+#t{
+     background-color: rgb(64, 64, 157);
+    border: solid green 1px;
+    border-radius: 10px;
+    color: white;
+}
+#m{
+     background-color: rgb(246, 69, 69);
+    border: solid green 1px;
+    border-radius: 10px;
+    color: white;
+}
+.kaka{
+    background-color:rgb(6, 6, 110);
+}
+}
